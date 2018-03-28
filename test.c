@@ -4,5 +4,6 @@ int main(void){
     printf("666");
     for(int i=0;i<10;i++){
         printf("*");
+        printf("12345");
     }
 }
